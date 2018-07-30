@@ -5,6 +5,6 @@ git config --global i18n.logoutputencoding utf-8  # 输出 log 编码
 git config --global user.name "qinqingping"
 git config --global user.email "1332981439@qq.com"
 git add -A
-git commit "初始化面试项目"
+git commit -m "初始化面试项目"
 git push
 git pull
